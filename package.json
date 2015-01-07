@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "express":     "4.10.7",
         "lodash":      "2.4.1",
         "validate.js": "git://github.com/ansman/validate.js.git",
         "q":           "1.1.2"
