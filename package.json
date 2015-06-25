@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "lodash":      "3.8.0",
-        "validate.js": "0.4.0",
+        "validate.js": "0.7.1",
         "glob":        "4.4.0"
     }
 }
