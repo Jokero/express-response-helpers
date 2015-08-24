@@ -4,7 +4,7 @@
     "private": true,
     "main":    "./lib/expressApi",
     "dependencies": {
-        "lodash": "3.9.3",
+        "lodash": "3.10.1",
         "glob":   "4.4.0"
     }
 }
