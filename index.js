@@ -1,5 +1,5 @@
-exports.errors            = require('./errors');
-exports.transformResponse = require('./transformResponse');
+exports.errors            = require('./lib/errors');
+exports.transformResponse = require('./lib/transformResponse');
 exports.transformer       = require('transformer');
 
 exports.middleware  = {
