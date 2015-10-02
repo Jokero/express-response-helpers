@@ -1,6 +1,6 @@
 exports.errors            = require('./errors');
 exports.transformResponse = require('./transformResponse');
-exports.transformer       = require('validate');
+exports.transformer       = require('transformer');
 
 exports.middleware  = {
     addToResponseSendDataMethod:   require('./lib/middleware/addToResponseSendDataMethod'),
