@@ -2,10 +2,10 @@
     "name":    "express-api",
     "version": "0.0.1",
     "private": true,
-    "main":    "./lib/expressApi",
+
     "dependencies": {
-        "lodash":   "3.10.1",
-        "glob":     "4.4.0",
-        "validate": "git://github.com/Jokero/validate.git"
+        "lodash":      "3.10.1",
+        "glob":        "4.4.0",
+        "transformer": "git://github.com/Jokero/transformer.git"
     }
 }
