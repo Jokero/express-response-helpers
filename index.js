@@ -1,4 +1,4 @@
-exports.httpError         = require('./lib/httpError');
+exports.HttpError         = require('./lib/httpError');
 exports.transformResponse = require('./lib/transformResponse');
 exports.transformer       = require('transformer');
 
