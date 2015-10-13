@@ -5,6 +5,6 @@
 
     "dependencies": {
         "lodash":      "3.10.1",
-        "transformer": "git://github.com/Jokero/transformer.git"
+        "transformer": "git://github.com/Jokero/transformer.git#feature/api"
     }
 }
