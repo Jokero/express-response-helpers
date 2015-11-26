@@ -1,10 +1,8 @@
 exports.transformRequest  = require('./lib/transformRequest');
 exports.transformResponse = require('./lib/transformResponse');
 exports.transformer       = require('transformer');
-exports.HttpError         = require('http-error');
 
 exports.middleware  = {
     addToResponseSendDataMethod:   require('./lib/middleware/addToResponseSendDataMethod'),
-    addToResponseSendObjectMethod: require('./lib/middleware/addToResponseSendObjectMethod'),
-    fetchObject:                   require('./lib/middleware/fetchObject')
+    addToResponseSendObjectMethod: require('./lib/middleware/addToResponseSendObjectMethod')
 };
