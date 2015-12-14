@@ -4,7 +4,7 @@
     "private": true,
 
     "dependencies": {
-        "lodash":      "3.10.1",
-        "transformer": "git://github.com/Jokero/transformer.git"
+        "lodash":            "3.10.1",
+        "transformer-chain": "git://github.com/Jokero/transformer-chain.git"
     }
 }
