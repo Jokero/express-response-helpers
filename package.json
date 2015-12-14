@@ -19,7 +19,6 @@
     },
 
     "dependencies": {
-        "lodash":            "3.10.1",
         "transformer-chain": "0.0.1"
     }
 }
