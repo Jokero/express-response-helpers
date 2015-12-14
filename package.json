@@ -1,10 +1,25 @@
 {
-    "name":    "express-api",
+    "name":    "express-response-helpers",
     "version": "0.0.1",
-    "private": true,
+
+    "author": {
+        "name":  "Dmitry Kirilyuk",
+        "email": "gk.joker@gmail.com"
+    },
+
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/Jokero/express-response-helpers.git"
+    },
+
+    "license": "MIT",
+
+    "engines": {
+        "node" : ">=4.0.0"
+    },
 
     "dependencies": {
         "lodash":            "3.10.1",
-        "transformer-chain": "git://github.com/Jokero/transformer-chain.git"
+        "transformer-chain": "0.0.1"
     }
 }
