@@ -1,4 +1,4 @@
-exports.transformResponse = require('./lib/transformResponse');
+exports.mapObject = require('./lib/mapObject');
 
 exports.middleware = {
     addSendDataMethod:   require('./lib/middleware/addSendDataMethod'),

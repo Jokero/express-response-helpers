@@ -1,6 +1,6 @@
 {
     "name":    "express-response-helpers",
-    "version": "0.0.1",
+    "version": "0.0.2",
 
     "author": {
         "name":  "Dmitry Kirilyuk",
@@ -15,7 +15,7 @@
     "license": "MIT",
 
     "engines": {
-        "node" : ">=4.0.0"
+        "node": ">=4.0.0"
     },
 
     "dependencies": {
